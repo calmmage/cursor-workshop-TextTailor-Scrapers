@@ -1,6 +1,6 @@
 This is a sample project for cursor workshop
 
-Idea is to use Cursor IDE to figure out 
+Idea is to use Cursor IDE to figure out the code and try to do meaningful changes
 
 # Entry points
 [shop_parser_spider.py](texttailor/texttailor/spiders/shop_parser_spider.py)
